@@ -1,6 +1,7 @@
 # Dole Fruit Up: pitch di 5 minuti per il Premio SimDole
 
 > **Presentazione: 12 ottobre 2026** · 5 minuti · 4 slide · clicker
+> **Deck pronto:** [`Dole_Fruit_Up_pitch.pptx`](Dole_Fruit_Up_pitch.pptx): 4 slide, apparizioni al clic, testo del pitch nelle note del relatore. Sequenza dei clic nel § 2.
 > **Platea mista:** manager Dole, medici, professori, istituzioni.
 > **Stato del progetto:** ha vinto il premio, ma Dole non ha ancora deciso se realizzarlo. Il pilota proposto è a marzo 2027, quindi **non ci sono risultati da mostrare**: si presenta come **proposta**.
 >
@@ -131,12 +132,12 @@
 - **In alto (piccolo):** Da dove nasce il problema?
 - **Obiettivo comunicativo:** far *sentire* in 5 secondi il divario tra "Dole c'è" e "Dole non viene in mente".
 - **Testo in slide (in tre momenti, a clic):**
-  - *Stato iniziale (apertura):* solo, grande al centro: **«Quanto hai fatto?»**
+  - *Stato iniziale (apertura):* **copertina** blu con il logo Dole, **"Fruit Up"**, *"Fruit Up. Feel Good."*, i vostri tre nomi e i dischi colorati del Wall. La domanda "Quanto hai fatto?" **non va scritta**: se la leggono, non se la chiedono. L'unica domanda scritta del deck sarà quella finale.
   - *Clic 1 ("Ora pensate a Dole"):*
     - titolo **Conosciuta. Ma non ancora ricordata.**
     - **130+ sponsorizzazioni sportive**
-    - i due numeri **6%** *ci pensa da solo* e **40%** *la riconosce*
-  - *Clic 2 ("Perché? Tre motivi"):* tre icone con didascalia breve: *Vende via grande distribuzione* · *Marca: ultimo criterio di scelta* · *Sponsorizzazioni senza un filo comune*
+    - i due numeri **6%** *pensa a Dole da solo* e **40%** *la riconosce dal nome*
+  - *Clic 2 ("Perché? Tre motivi"):* tre icone con didascalia breve: *Vende tramite la grande distribuzione* · *Allo scaffale la marca conta per ultima* · *Sponsorizzazioni senza un filo comune*
   - *Piè di pagina:* Ricerca primaria · 142 giovani · 2026 · Alessio Veizaj, Federica Genoese, Giorgia Rinaldi
 - **Numeri da evidenziare:** 6% contro 40%, e 130+.
 - **Elementi grafici:** due cerchi proporzionali (piccolo rosso 6, grande blu 40); tre icone per le cause.
@@ -154,11 +155,11 @@
 - **Testo in slide:**
   - Sotto il titolo: *Dole, il brand alimentare dello sport vissuto come benessere · 15-30 anni*
   - 4 card "da → a", una per clic:
-    1. **Da conosciuta a ricordata**: ci pensa da solo 6,2% → 8% · la riconosce 40,2% → 45%
+    1. **Da conosciuta a ricordata**: pensa a Dole da solo 6% → 8% · la riconosce dal nome 40% → 45%
     2. **Da scaffale a relazione**: 0 → 800 iscritti ai Fruit Up Club · 10 CUS
     3. **Da assente a presente**: TikTok 0 → 5.000 · Instagram 14,5K → 20K
-    4. **Da eventi isolati a sistema**: 130+ sponsorizzazioni → 1 format riconoscibile
-  - *Piè di pagina:* Misurato: ricerca prima (2026) e dopo (2027) · Nielsen: +1 punto di notorietà da sponsorizzazione ≈ +1% vendite
+    4. **Da eventi isolati a sistema**: 1 format per tutte le sponsorizzazioni · 3 nel 2027, poi in ogni rinnovo
+  - *Piè di pagina:* Obiettivi 2027, misurati con una ricerca prima (2026) e dopo (2027) · Nielsen: +1 punto di notorietà da sponsorizzazione ≈ +1% di vendite
 - **Numeri da evidenziare:** le frecce 6 → 8 e 40 → 45, e 800.
 - **Elementi grafici:** 4 card uguali, ognuna con una freccia.
 - **Cosa NON inserire:**
@@ -191,15 +192,36 @@
 - **In alto (piccolo):** Quale impatto possiamo generare?
 - **Obiettivo comunicativo:** dimostrare che il progetto è **sostenibile e scalabile**, cioè che non è un evento spot.
 - **Testo in slide:**
-  - A sinistra, due barre: **10 CUS, format completo ≈ 320.000 €** contro **Con Fruit Up: 50.000 €** (*stima*). Sotto: *1ª Zone 32.000 € → ogni CUS in più ~2.000 €*
+  - A sinistra, grafico a barre *"Costo per portare il format in 10 CUS (euro)"*: **Format completo 320.000** contro **Con Fruit Up 50.000**. Sotto: *1ª Fruit Up Zone 32.000 € → ogni CUS in più ~2.000 €* · *Stima degli autori*
   - A destra, un percorso che si allarga: **Torino (pilota)** → Campionati universitari → Settimane matricole → Tornei → Scuole → **Sponsorizzazioni Dole** (3 nel 2027: Maratone Roma e Milano, Swim the Island, Dole Basket Rimini · dal 2028 in ogni rinnovo)
   - *Piè di pagina:* **200.000 €/anno** · prodotto, prezzo e distribuzione invariati
-  - *Clic finale (per la chiusura):* la slide si svuota e restano solo **«Oggi come ti senti?»** e **Fruit Up. Feel Good.**
+  - *Clic finale (per la chiusura):* la slide diventa blu con i dischi colorati del Wall, e restano solo **«Oggi come ti senti?»**, **Fruit Up. Feel Good.** e i vostri nomi. È lo specchio della copertina.
 - **Numeri da evidenziare:** 320.000 contro 50.000, e 200.000 €/anno.
 - **Elementi grafici:** barra lunga grigia contro barra corta verde; percorso a tappe che si allarga.
 - **Cosa NON inserire:** la tabella budget A-F, le 15 attività del Gantt, i costi dei creator, "risultati ottenuti".
 - **Cosa dire:** replicabilità, confronto dei costi, trasferimento nelle sponsorizzazioni, "da fornitore ad autore" e il finale.
 - **Tempo:** **0:55** + finale **0:25** (3:40 → 5:00)
+
+
+### Sequenza dei clic (11 pressioni in tutto)
+
+| Slide | Clic | Quando lo premi | Cosa appare |
+|---|---|---|---|
+| 1 | — | Inizio | Copertina |
+| 1 | 1 | "Ora pensate a Dole." | 130+, 6% e 40%, titolo |
+| 1 | 2 | "Perché? Tre motivi." | Le tre cause |
+| → 2 | 3 | "Quindi, cosa vogliamo cambiare?" | Slide 2 con titolo |
+| 2 | 4-7 | "Da conosciuta...", "Da scaffale...", "Da assente...", "Da eventi isolati..." | Una card alla volta |
+| → 3 | 8 | "Come ci arriviamo?" | Slide 3 con il render della Zone |
+| 3 | 9 | "E un muro." | Il Wall «Oggi come ti senti?» |
+| → 4 | 10 | "E soprattutto: Fruit Up si replica." | Slide 4 |
+| 4 | 11 | Dopo "...diventa autore." | Chiusura blu «Oggi come ti senti?» |
+
+**Come usarlo:**
+- Apri in PowerPoint e avvia la presentazione con la **visualizzazione relatore**: il pitch è nelle note, con i `[CLIC]` segnati.
+- Font usati: Arial e Cambria, presenti in ogni Office.
+- **Provalo sul PC della sala** il giorno prima o la mattina: animazioni e clicker vanno testati lì.
+- Se il PC non ha PowerPoint, Keynote importa le dissolvenze. In quel caso ricontrolla comunque la sequenza.
 
 ---
 
@@ -401,7 +423,7 @@ La struttura circolare regge solo se **la stessa voce apre e chiude**.
 
 ---
 
-**SLIDE 1**: sullo schermo solo «Quanto hai fatto?» · *target 1:15*
+**SLIDE 1**: sullo schermo la copertina · *target 1:15*
 
 `[GUARDA IL PUBBLICO]` *(fai due passi avanti, fermati, respira prima di parlare)*
 Pensate a un ragazzo che torna da un allenamento. `[PAUSA]` Magari vostro figlio.
